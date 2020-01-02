@@ -6,18 +6,14 @@ permalink: /authors/
 
 ### *{{site.title}}*
 
-#### Sergio J. Rey
+#### Christina Last
+- [Christina Last](https://www.linkedin.com/in/christina-last/)
 
-- [sergerey.org](https://sergerey.org/)
-- [`@sergerey`](https://twitter.com/sergerey)
+#### Chris Taylor
+- [Chris Taylor](https://www.linkedin.com/in/chris-taylor-336a6177/)
 
-#### Dani Arribas-Bel
+#### Susannah Stearman
+- [Susannah Stearman](https://www.linkedin.com/in/susannahstearman/)
 
-- [darribas.org](https://darribas.org/)
-- [`@darribas`](https://twitter.com/darribas)
-
-#### Levi J. Wolf
-
-- [ljwolf.org](http://ljwolf.org/)
-- [`@levijohnwolf`](https://twitter.com/levijohnwolf)
-
+#### Henry Chan
+- [Henry Chan](https://www.linkedin.com/in/henrychanphd/)
