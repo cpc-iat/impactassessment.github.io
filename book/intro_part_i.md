@@ -1,1 +1,1 @@
-# Part I - Building Blocks
+# Part I - Econometrics in Python

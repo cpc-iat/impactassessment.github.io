@@ -1,4 +1,4 @@
-# Geographic Data Science with PySAL and the PyData Stack
+# Data Science for Impact Assessment with PySAL and the PyData Stack
 
 * Dr Henry Chan
 * Ms Christina Last

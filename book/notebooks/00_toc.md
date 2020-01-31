@@ -4,21 +4,21 @@
 - [Acknowledgements](Acknowledgements)
 - [Executive summary](Executive_summary)
 
-## Part I: Introduction
+## Part I - Econometrics in Python
 
-- [Why develop the Performance in Use toolkit?](Why_develop_the_Performance_in_Use_toolkit?)
+- [01-GVA-Calculation](01-GVA-Calculation)
 - [Spatial data](02_spatial_data)
 - [Spatial data processing](03_spatial_data_processing)
 - [Spatial weights](04_spatial_weights)
 
-## Part II: Spatial Data Analysis
+## Part II - Transportation and Network Analysis
 
 - [Choropleth Mapping](05_choropleth)
-- [Spatial Autocorrelation](06_spatial_autocorrelation)
+- [GVA Cal](01-GVA-Calculation)
 - [Local Spatial Autocorrelation](07_local_autocorrelation)
 - [Point Pattern Analysis](08_point_pattern_analysis)
 
-## Part III: Advanced Topics
+## Part III - Social and Environmental Analysis
 
 - [Spatial Inequality](09_spatial_inequality)
 - [Clustering and Regionalization](10_clustering_and_regionalization)
