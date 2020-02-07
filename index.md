@@ -12,5 +12,5 @@ layout: home
 
 # *{{site.title}}*
 
-This is the site for the *"Performance in Use Toolkit"*, by Dr Henry Chan, Ms Christina Last, Ms Susannah Stearman and Mr Chris Taylor. Here you can find out about the latest news regarding the book, 
-read more about the [authors](/authors), or jump straight to the [book](http://127.0.0.1:4000/intro).
+This is the site for the *"Data Science for Impact Assessment Handbook"*, by Ms Christina Last. Here you can find out about the latest news regarding the book, 
+read more about the [author](/authors), or jump straight to the [book](http://127.0.0.1:4000/intro).

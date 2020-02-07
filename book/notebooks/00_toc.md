@@ -9,11 +9,10 @@
 - [01-GVA-Calculation](01-GVA-Calculation)
 - [Spatial data](02_spatial_data)
 - [Spatial data processing](03_spatial_data_processing)
-- [Spatial weights](04_spatial_weights)
 
 ## Part II - Transportation and Network Analysis
 
-- [Choropleth Mapping](05_choropleth)
+- [Choropleth Mapping](04_bike_network_analysis)
 - [GVA Cal](01-GVA-Calculation)
 - [Local Spatial Autocorrelation](07_local_autocorrelation)
 - [Point Pattern Analysis](08_point_pattern_analysis)
