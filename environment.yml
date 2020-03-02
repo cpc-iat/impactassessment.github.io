@@ -94,6 +94,7 @@ dependencies:
   - nbformat=5.0.4
   - ncurses=6.1
   - networkx=2.4
+  - nodejs=13.9.0
   - notebook=6.0.3
   - nspr=4.20
   - nss=3.47
