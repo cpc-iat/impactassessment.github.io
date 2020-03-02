@@ -62,7 +62,6 @@ dependencies:
   - krb5=1.16.4
   - libblas=3.8.0
   - libcblas=3.8.0
-  - libclang=8.0.1
   - libcurl=7.68.0
   - libcxx=9.0.1
   - libdap4=3.20.4
